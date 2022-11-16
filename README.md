@@ -12,13 +12,13 @@
 
 1. Install the dependencies
 ```
-npm i -D eslint @rocketseat/eslint-config
+npm i -D eslint @bephant/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "extends": "@rocketseat/eslint-config/react"
+  "extends": "@bephant/eslint-config/react"
 }
 ```
 
