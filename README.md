@@ -1,4 +1,4 @@
-# Rocketseat ESLint config
+# BlackElephant ESLint config
 
 ## Whats included?
 
