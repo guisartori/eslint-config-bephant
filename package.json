@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "guisartori/eslint-config-rocketseat"
+    "url": "guisartori/eslint-config-bephant"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
